@@ -28,6 +28,7 @@ setuptools.setup(
     long_description=desc,
     long_description_content_type="text/markdown",
     url="https://github.com/maurosoria/dirsearch",
+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
     packages=setuptools.find_packages(),
     entry_points={"console_scripts": ["dirsearch=dirsearch.dirsearch:main"]},
     package_data={"dirsearch": ["*", "db/*"]},
