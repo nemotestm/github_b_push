@@ -12,6 +12,8 @@ current_dir = os.path.abspath(os.path.dirname(__file__))
 with io.open(os.path.join(current_dir, "README.md"), encoding="utf-8") as fd:
     desc = fd.read()
 
+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
+
 env_dir = tempfile.mkdtemp(prefix="dirsearch-install-")
 shutil.copytree(os.path.abspath(os.getcwd()), os.path.join(env_dir, "dirsearch"))
 
