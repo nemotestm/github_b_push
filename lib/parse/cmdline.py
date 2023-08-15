@@ -35,6 +35,7 @@ def parse_arguments():
     mandatory.add_option(
         "-u",
         "--url",
+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
         action="append",
         dest="urls",
         metavar="URL",
